@@ -1,0 +1,225 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+}
+
+.logo {
+    width: 70%;
+    height: 80px;
+    margin-left: 20px;
+    margin-top: 9px;
+
+}
+
+nav {
+    margin-top: 0px;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1px;
+    background: rgb(61, 61, 65);
+    
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 30%;
+
+   
+}
+
+li {
+
+    margin-left: 50px;
+    font-weight: bold;
+    background: transparent;
+    padding: 6px;
+    list-style: none;
+
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+#dld{
+    /* border: 1px solid; */
+    border-radius: 8px;
+    padding: 4px;
+    background-color: rgb(43, 197, 66);
+    color: rgb(174, 12, 12);
+    margin-top: -5px;
+    font-weight: 800;
+}
+/* #download{
+    margin-right: -200px;
+} */
+#first{
+    margin-top: 40px;
+}
+.main{
+    display: flex;
+}
+#heading{
+    margin-top: 80px;
+    margin-left: 50px;
+}
+h1{
+    font-size: 80px;
+    color: rgb(64, 211, 64);
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    font-size: 40px;
+    color: rgb(92, 87, 87);
+}
+p{
+    font-size: 17px;
+    margin-top: 10px;
+    text-align: left;
+    font-weight: 580;
+}
+.Response{
+   
+    /* text-align: justify;
+    align-items: center; */
+    margin-left: 10%;
+}
+#para{
+    margin-left: 0px;
+    margin-top: 1%;
+    font-size: 17px;
+    font-weight: 600;
+}
+#UI{
+    font-size: 39px;
+    font-weight: 700;
+    /* font-family: cursive; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.video{
+    margin-left: 10%;
+    margin-top: 1px;
+    display: flex;
+
+}
+.youtube{
+    display: flex;
+    margin-top: 40px;
+}
+#IMG{
+    margin-top: -20px;
+    width: 300px;
+    height: 400px;
+    margin-left: 200px;
+}
+#end{
+    font-size: 39px;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(92, 87, 87);
+    margin-top: 25px;
+    margin-left: 550px;
+}
+
+
+span{
+    font-size: 39px;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(92, 87, 87);
+    margin-top: 25px;
+    margin-left: 30px;
+}
+.playnow {
+
+   margin-top: 30px;
+   margin-left: 620px;
+   margin-bottom: 90px;
+    
+
+}
+
+.button {
+    font-size: 20px;
+    font-weight: bold;
+    border: 3px ;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(43, 197, 66);
+    color: rgb(174, 12, 12);
+    border-radius: 10px;
+    font-weight: 700;
+   
+}
+
+/* FOOTER */
+
+
+.foot{
+
+    width: 100%;
+    height: 300px;
+    margin-top: 20px;
+
+    background: rgb(61, 61, 65);
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.box1{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 250px;
+    text-align: center;
+}
+
+#follow{
+    font-size: 20px;
+    color: white;
+    margin-top: -150px;
+}
+.box2{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 150px;
+    text-align: center;
+    line-height: 20px;
+    margin-top: 0;
+}
+#top{
+    color: white;
+    font-weight: bold;
+    margin-left: -50px;
+    margin-top: -57px;
+}
+.Box2{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 150px;
+    text-align: center;
+    line-height: 20px;
+    margin-top: 48px;
+}
+
+#Top{
+    color: white;
+    font-weight: bold;
+    margin-left: -40px;
+    margin-top: -57px;
+}
+#top1{
+    color: rgb(225, 216, 216);
+}
+
